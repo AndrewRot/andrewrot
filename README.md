@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=andrewrot)
+![](https://komarev.com/ghpvc/?username=andrewrot&color=orange)
 
 
 <!--
